@@ -1,5 +1,4 @@
-# Enough-suffering-
-Make Money or u go suffer.
+
 function getMultiplier() {
   // Use a skewed distribution to favor lower numbers (1.2 to 5)
   // and have a low probability for numbers over 5
